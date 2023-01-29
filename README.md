@@ -19,11 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashishk06248558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishk06248558" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-kumar-patel-306456146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-kumar-patel-306456146/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ashi_sh_0007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ashi_sh_0007/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/king_ashish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/king_ashish/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ashish_0007/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ashish_0007/practice" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/ee127983-c53a-41b3-8375-43760d4e3d29" target="blank"><img align="center" src="https://files.codingninjas.in/ps-explore-home-address-11258.svg" alt="https://www.codingninjas.com/codestudio/profile/ee127983-c53a-41b3-8375-43760d4e3d29" height="30" width="40" /></a>  
+<a href="https://instagram.com/https://www.instagram.com/ashi_sh_0007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ashi_sh_0007/" height="30" width="40" /></a>
+<a href="https://twitter.com/ashishk06248558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishk06248558" height="30" width="40" /></a>
 <a href="https://discord.gg/#8830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8830" height="30" width="40" /></a>
 </p>
 
