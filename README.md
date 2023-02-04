@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashishk06248558" target="blank"><img src="https://img.shields.io/twitter/follow/ashishk06248558?logo=twitter&style=for-the-badge" alt="ashishk06248558" /></a> </p>
 
-- 🔭 I’m currently working on [**Music Player**](https://ashishh0007.github.io/Music-Player/)
+- 🔭 I’m currently working on [**Color-Shape Changer Game**](https://ashishh0007.github.io/Color-Shape-Changer-Game/)
 
 - 🌱 I’m currently learning **Javascript**
 
