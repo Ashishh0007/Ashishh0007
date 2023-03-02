@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ashishk06248558" target="blank"><img src="https://img.shields.io/twitter/follow/ashishk06248558?logo=twitter&style=for-the-badge" alt="ashishk06248558" /></a> </p>
 
-- 🔭 I’m currently working on [**Color-Shape Changer Game**](https://ashishh0007.github.io/Color-Shape-Changer-Game/)
+- 🔭 I’m currently working on [**Superhero Hunter**](https://ashishh0007.github.io/Superhero-Hunter/)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Node Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashishh0007](https://github.com/Ashishh0007)
 
-- 💬 Ask me about **C++, Data Structures & Algorithms, System Design, MySQL, Operating System, HTML5, CSS3 and Bootstrap**
+- 💬 Ask me about **C++, Javascript, Data Structures & Algorithms, MongoDB, Node.js, Express.js, EJS, System Design, MySQL, Operating System, HTML5, CSS3 and Bootstrap**
 
 - 📫 How to reach me **ashishkumarpatel9755@gmail.com**
 
