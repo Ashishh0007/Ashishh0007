@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [**Superhero Hunter**](https://ashishh0007.github.io/Superhero-Hunter/)
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Passport Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashishh0007](https://github.com/Ashishh0007)
 
