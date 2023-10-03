@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Patel</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="center" alt="Coding" width="600" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishh0007&label=Profile%20views&color=0e75b6&style=flat" alt="ashishh0007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishh0007" alt="ashishh0007" /></a> </p>
